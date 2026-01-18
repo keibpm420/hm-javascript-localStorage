@@ -2,6 +2,9 @@
 
 Hello Mentor の課題で制作した、JavaScript の localStorage を使用したテーマ切り替えのサンプル実装です。
 
+🔗 デモURL
+https://keibpm420.github.io/hm-javascript-localStorage/
+
 ### 概要
 
 ボタンをクリックすることでライトモード／ダークモードを切り替え、
